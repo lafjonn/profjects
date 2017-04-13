@@ -7,3 +7,11 @@
   border-radius: 4px;
   min-width: 100px;
 }
+
+.btn:hover {
+  background-color: darken($blue, 7%);
+}
+
+.btn:active {
+  background-color: darken($blue, 14%);
+}
