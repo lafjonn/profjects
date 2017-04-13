@@ -6,7 +6,13 @@ $grey: #dddfe0;
 $darkgrey: #283645;
 $white: #ffffff;
 $black: #000000;
-$pink: #d22856;
+$pink: #CD0074;
+$purple: #7109AA;
+$blue:  #286090;
+$yellow: #FFFF00;
+$darkgreen: #006C51;
+$darkorange: #5F2F01;
+
 
 
 /* ~~~~ Font ~~~~ */
@@ -15,8 +21,6 @@ $font: "Open Sans", "Arial", sans-serif;
 
 /* ~~~~ Media ~~~~ */
 
-$mobile-only: "(max-width: 660px)";
 $tablet: "(min-width: 660px)";
-$tablet-only: "(min-width: 660px) and (max-width: 960px)";
 $desktop: "(min-width: 960px)";
 $retina: "(min-resolution: 144dpi), (min-resolution: 1.5dppx)";

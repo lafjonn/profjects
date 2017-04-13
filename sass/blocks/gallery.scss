@@ -1,0 +1,21 @@
+.gallery {
+  display: flex;
+  flex-direction: column;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.gallery__heading {
+  color: $darkblue;
+  font-size: 36px;
+  padding-bottom: 10px;
+  margin: 40px 0 20px;
+  border-bottom: 1px solid $lightgrey;
+}
+
+.gallery__inner {
+  display: flex;
+  flex-direction: column;
+}
