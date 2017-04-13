@@ -1,9 +1,9 @@
 {
-  "name": "pink",
+  "name": "projects",
   "version": "0.1.0",
   "author": "lafjonn",
   "private": true,
-  "description": "",
+  "description": "lafjonn projects",
   "devDependencies": {
     "autoprefixer": "6.7.x",
     "browser-sync": "2.18.8",
